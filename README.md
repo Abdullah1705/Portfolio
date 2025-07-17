@@ -1,22 +1,37 @@
-🧑‍💻 Portfolio
-A modern and responsive developer portfolio built using React, TypeScript, Tailwind CSS, and Framer Motion to showcase projects, skills, and experience with smooth animations and clean UI.
+# 🧑‍💻 Portfolio
 
-🚀 Features
-⚡ Fast & Responsive – Optimized for all screen sizes and performance
+A modern and responsive developer portfolio built using **React**, **TypeScript**, **Tailwind CSS**, and **Framer Motion** to showcase projects, skills, and experience with smooth animations and a clean, elegant UI.
 
-🎨 Modern Design – Sleek UI with Tailwind CSS and glassmorphism aesthetics
+---
 
-🧠 Framer Motion Animations – Engaging transitions and motion effects
+## 🚀 Features
 
-🔍 Project Showcase – Highlight your best work with GitHub links
+- ⚡ **Fast & Responsive**  
+  Optimized for performance across all screen sizes.
 
-🌙 Dark Mode – Toggleable dark theme
+- 🎨 **Modern UI Design**  
+  Sleek interface built with Tailwind CSS and subtle glassmorphism.
 
-📱 Mobile Friendly – Fully optimized for mobile devices
+- 🧠 **Smooth Animations**  
+  Powered by Framer Motion for intuitive and engaging transitions.
 
-🛠️ Tech Stack
-Frontend: React, TypeScript, Tailwind CSS
+- 🔍 **Project Showcase**  
+  Highlight your top projects with links to GitHub repositories.
 
-Animations: Framer Motion
+- 🌙 **Dark Mode Support**  
+  Seamless toggle between light and dark themes.
 
-Icons: Lucide, Font Awesome
+- 📱 **Mobile Friendly**  
+  Fully responsive design for all devices.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category     | Technologies                          |
+|--------------|----------------------------------------|
+| Frontend     | React, TypeScript, Tailwind CSS        |
+| Animations   | Framer Motion                          |
+| Icons        | Lucide, Font Awesome                   |
+
+---
